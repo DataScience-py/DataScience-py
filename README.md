@@ -2,7 +2,7 @@
 
 [![Header](https://github.com/DataScience-py/DataScience-py/blob/main/assets/userlogo.png)](https://github.com/DataScience-py)
 
-About me
+I'm beginner in Data Science and Machine Learning.
 
 Latest Repository
 
