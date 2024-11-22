@@ -4,8 +4,6 @@
 
 ## I'm beginner in Data Science and Machine Learning
 
-Latest Repository
-
 ### Languages and Tools
 
 ![Pytorch](https://img.shields.io/badge/Pytorch-f7d031?style=for-the-badge&logo=Pytorch&logoColor=e94f2b)
@@ -15,6 +13,13 @@ Latest Repository
 ![Github](https://img.shields.io/badge/Github-f7d031?style=for-the-badge&logo=GitHub&logoColor=000000)
 ![python](https://img.shields.io/badge/Python-f7d031?style=for-the-badge&logo=Python&logoColor=37709f)
 ![C++](https://img.shields.io/badge/-C++-f7d031?style=for-the-badge&logo=c%2B%2B&logoColor=007fcb)
+
+### Repository
+
+- [WakeWordDetection](https://github.com/DataScience-py/WakeWordDetection)
+- [SpeechRecognition](https://github.com/DataScience-py/SpeechRecognition)
+- [JARVIS_LAST_attempt](https://github.com/DataScience-py/JARVIS_LAST_attempt)
+- [run_programms](https://github.com/DataScience-py/run_programms)
 
 ### Contact me
 
