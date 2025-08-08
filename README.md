@@ -6,13 +6,15 @@
 
 ### Languages and Tools
 
-![Pytorch](https://img.shields.io/badge/Pytorch-f7d031?style=for-the-badge&logo=Pytorch&logoColor=e94f2b)
-![Tensorflow](https://img.shields.io/badge/Tensorflow-f7d031?style=for-the-badge&logo=Tensorflow&logoColor=ea911e)
-![Numpy](https://img.shields.io/badge/Numpy-f7d031?style=for-the-badge&logo=Numpy&logoColor=02afd9)
-![Sklearn](https://img.shields.io/badge/Sklearn-f7d031?style=for-the-badge&logo=Sklearn&logoColor=#3b7deb)
+![Git](https://img.shields.io/badge/-Git-Git?logo=Git)
 ![Github](https://img.shields.io/badge/Github-f7d031?style=for-the-badge&logo=GitHub&logoColor=000000)
 ![python](https://img.shields.io/badge/Python-f7d031?style=for-the-badge&logo=Python&logoColor=37709f)
 ![C++](https://img.shields.io/badge/-C++-f7d031?style=for-the-badge&logo=c%2B%2B&logoColor=007fcb)
+
+![Sklearn](https://img.shields.io/badge/Sklearn-f7d031?style=for-the-badge&logo=Sklearn&logoColor=#3b7deb)
+![Pytorch](https://img.shields.io/badge/Pytorch-f7d031?style=for-the-badge&logo=Pytorch&logoColor=e94f2b)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-f7d031?style=for-the-badge&logo=Tensorflow&logoColor=ea911e)
+![Numpy](https://img.shields.io/badge/Numpy-f7d031?style=for-the-badge&logo=Numpy&logoColor=02afd9)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Pydantic](https://img.shields.io/badge/-Pydantic-464646?logo=Pydantic)
 
