@@ -13,6 +13,8 @@
 ![Github](https://img.shields.io/badge/Github-f7d031?style=for-the-badge&logo=GitHub&logoColor=000000)
 ![python](https://img.shields.io/badge/Python-f7d031?style=for-the-badge&logo=Python&logoColor=37709f)
 ![C++](https://img.shields.io/badge/-C++-f7d031?style=for-the-badge&logo=c%2B%2B&logoColor=007fcb)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Pydantic](https://img.shields.io/badge/-Pydantic-464646?logo=Pydantic)
 
 ### Contact me
 
