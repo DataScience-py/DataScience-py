@@ -29,6 +29,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DataScience-py/DataScience-py/main/assets/userlogo.png" width="200">
+</p>
+
+---
+
 <!-- Stats and graphs -->
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DataScience-py&theme=github_dark" width="100%"/>
