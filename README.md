@@ -2,7 +2,7 @@
 <h3 align="center">👋 <b>Hello, I'm DataScience-py</b> 👋</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DataScience-py/DataScience-py/main/assets/avatar.png" width="200">
+  <img src="https://raw.githubusercontent.com/DataScience-py/DataScience-py/main/assets/0a4b718c-c1ef-482c-9482-621eac6f6b7d.jpeg" width="200">
 </p>
 
 
