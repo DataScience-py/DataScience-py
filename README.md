@@ -1,8 +1,13 @@
 <!-- Header -->
 <h3 align="center">👋 <b>Hello, I'm DataScience-py</b> 👋</h3>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DataScience-py/DataScience-py/main/avatar.png" width="200">
+</p>
+
+
 <div align="center">
-    <img title="Typing intro" alt="About me" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7D031&center=true&vCenter=true&width=550&lines=17+years+old+Data+Science+enthusiast;Aspiring+Data+Scientist;Passionate+about+Machine+Learning+and+AI;Python%2C+Deep+Learning%2C+FastAPI;Always+learning+and+building+something+new" />
+    <img title="Typing intro" alt="About me" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7D031&center=true&vCenter=true&width=550&lines=17+years+old+Data+Science+enthusiast;Aspiring+Data+Scientist;Passionate+about+Machine+Learning+and+AI;Python%2C+Deep+Learning%2C+FastAPI;Always+learning+and+building+something+new;studying+at+SENATOROVAI" />
 </div>
 
 &nbsp;
@@ -58,12 +63,4 @@
     <img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=LangNeuron&repo=pyfiles_db&theme=github_dark&hide_border=true" />
 </a>
 
-</div>
-
----
-
-<!-- Footer -->
-<div align="center">
-    <h6>🟡 Minimal Data Aesthetic • Color scheme: <a href="https://draculatheme.com">Dracula</a> x F7D031</h6>
-    <img src="https://hit.yhype.me/github/profile?account_id=190183925" alt="hit counter"/>
 </div>
