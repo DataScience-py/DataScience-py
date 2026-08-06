@@ -7,7 +7,7 @@
 
 
 <div align="center">
-    <img title="Typing intro" alt="About me" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7D031&center=true&vCenter=true&width=550&lines=17+years+old+Data+Science+enthusiast;Aspiring+Data+Scientist;Passionate+about+Machine+Learning+and+AI;Python%2C+Deep+Learning%2C+FastAPI;Always+learning+and+building+something+new;studying+at+SENATOROVAI" />
+    <img title="Typing intro" alt="About me" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7D031&center=true&vCenter=true&width=550&lines=18+years+old+Data+Science+enthusiast;Aspiring+Data+Scientist;Passionate+about+Machine+Learning+and+AI;Python%2C+Deep+Learning%2C+FastAPI;Always+learning+and+building+something+new;studying+at+SENATOROVAI" />
 </div>
 
 &nbsp;
